@@ -38,4 +38,15 @@ GitHub repository: alx-interview
 Directory: 0x09-island_perimeter
 File: 0-island_perimeter.py
   
+Task setup.
+# Create solution file.
+touch 0-island_perimeter.py
+chmod +x 0-island_perimeter.py
 
+# Lint.
+pep8 0-island_perimeter.py
+
+# Test.
+touch 0-main.py
+chmod +x 0-main.py
+./0-main.py
